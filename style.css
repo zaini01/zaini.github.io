@@ -1,0 +1,40 @@
+body {
+    background-image: url("./img/bg.jpg");
+}
+
+#hero {
+    background-image: url("./img/spaceShip.png");
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 600px;
+    left: 550px;
+}
+
+#missiles {
+    width: 1200px;
+    height: 650;
+}
+
+#enemies {
+    width: 50;
+    height: 50;
+}
+
+.enemy {
+    background-image: url("./img/ufo.png");
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 30px;
+    left: 550px;
+}
+
+.missile1 {
+    width: 10px;
+    height: 28px;
+    background-image: url('img/missile1.png');
+    position: absolute;
+}
+
+
